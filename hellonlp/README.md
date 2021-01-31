@@ -10,9 +10,8 @@
 
 </a>
 
-# HelloNLP  
-ChineseWordSegmentation：一种无监督的分词工具，通过信息熵实现。  
-新分词：有监督，通过深度学习（同时引入结巴分词多种分词模式的思维）# 开发中  
+
+
 # Example  
 Quick start  
 
